@@ -1,0 +1,5 @@
+Project Title:Video Game Sales Analysis
+
+Description:The projectb analyzes video games sales data using Python fundamentals.
+
+Dataset Source:Video Game Sales dataset 
