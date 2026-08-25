@@ -1,0 +1,8 @@
+readme_text = """"
+Project Title:Video Game Sales Analysis
+
+Description:The projectb analyzes video games sales data using Python concepts such as loops,lists,dictionaries,condtions and functions.
+
+Dataset Source:Video Game Sales dataset 
+"""
+print(readme_text)
